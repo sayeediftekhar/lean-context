@@ -1,0 +1,20 @@
+{
+  "name": "lean-context",
+  "displayName": "Harness & Context Engineering",
+  "version": "1.0.0",
+  "description": "Make an AI coding agent reliable: cut always-on context to a tiered load-on-demand structure, and build the harness (steps, tools, loops, gates) around the model. Skills auto-invoke on task match at zero standing-context cost.",
+  "author": {
+    "name": "Sayeed Iftekhar"
+  },
+  "homepage": "https://github.com/sayeediftekhar/lean-context",
+  "repository": "https://github.com/sayeediftekhar/lean-context",
+  "license": "MIT",
+  "keywords": [
+    "context-engineering",
+    "harness",
+    "agentic-development",
+    "token-optimization",
+    "feedback-loops",
+    "model-routing"
+  ]
+}

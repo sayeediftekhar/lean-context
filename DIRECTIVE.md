@@ -9,6 +9,13 @@
 > document needs to be loaded to run it.** That is not an oversight — a directive about lean context
 > that demanded an extra file at session start would refute itself.
 
+> **Where this sits.** This directive is the **context** half of a pair. It leans a repo's
+> standing load. The **harness** half — steps, tools, feedback loops, and the enforcement
+> boundary for gates — lives in `HARNESS.md`, and `INDEX.md` maps both. You do not need
+> either to run this directive (it is self-contained), but the guards in §6 below are the
+> same discipline `HARNESS.md` §6 states in general: *what must be guaranteed belongs in a
+> hook or a deny-list, never in prose.*
+
 ---
 
 ## 0. What you are implementing (read first)

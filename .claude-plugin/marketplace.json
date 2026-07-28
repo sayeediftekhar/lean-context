@@ -1,0 +1,13 @@
+{
+  "name": "lean-context",
+  "owner": {
+    "name": "Sayeed Iftekhar"
+  },
+  "plugins": [
+    {
+      "name": "lean-context",
+      "source": "./",
+      "description": "Harness & context engineering for AI coding agents: tiered load-on-demand context plus the four harness pillars (steps, tools, loops, gates). Portable markdown core; Claude Code skills, a migration command, and a demonstrator commit-gate hook."
+    }
+  ]
+}
