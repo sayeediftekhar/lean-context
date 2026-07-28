@@ -16,6 +16,9 @@ you control. It's portable markdown that any agent can read, and it ships as a C
 plugin so the right piece loads *only when a task needs it* — at zero standing cost, which
 is the whole thesis embodied.
 
+> **New here?** Read **[GETTING-STARTED.md](GETTING-STARTED.md)** — plain-language
+> steps to add this to any project and what you get out of it. No jargon.
+
 ---
 
 ## The context half — the economics that drive it
@@ -49,6 +52,7 @@ task needs all four; remove one and the task ships wrong or silently bypasses yo
 
 | File | For | How to use |
 |---|---|---|
+| **[GETTING-STARTED.md](GETTING-STARTED.md)** | A newcomer | Plain-language: how to add it to a project and how it helps. Start here. |
 | **[INDEX.md](INDEX.md)** | Anyone / an agent | The thin map. Read it, then fetch exactly one file. |
 | **[PLAYBOOK.md](PLAYBOOK.md)** | A human, once | The *why* of lean context, plus the failures — which are the useful part. |
 | **[DIRECTIVE.md](DIRECTIVE.md)** | An agent, per repo | Drop in the repo root. Say: *"Read `DIRECTIVE.md` and execute it. Stop at each STOP for my approval."* |
