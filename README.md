@@ -99,7 +99,7 @@ their own. The plugin is a convenience wrapper over them, not a dependency.
   **authorities index**: a table of *authority → path → what it governs*. Hard budget.
 - **Tier 2 — the bookshelf.** Procedures as skills or slash commands, loaded only
   when a task matches.
-- **Tier 3 — deep reference.** `docs/` (and `HARNESS.md` itself), fetched on demand, never standing.
+- **Tier 3 — deep reference.** A `docs/` folder in the target repo — here, `HARNESS.md` itself — fetched on demand, never standing.
 
 Plus session-typed context (a coding session shouldn't pay for learning context) and
 a handoff ritual that runs *before* the window degrades, not after.
